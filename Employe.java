@@ -4,5 +4,6 @@ public class Employe {
 	private String prenom;
 	private int age;
 	private String telephone;
+	private String adresse;
 
 }
